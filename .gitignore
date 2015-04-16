@@ -1,2 +1,3 @@
 arduino/.build/*
+tracker/tracker
 *.o
